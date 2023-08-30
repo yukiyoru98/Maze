@@ -11,7 +11,7 @@ the program will show the original maze in numbers:
 202+ - treasure
 
 One suggested solution will be printed automatically. 
-The first step will be shown and the you will have to press ENTER to see the next step.
+The first step will be shown and then you will have to press ENTER to see the next step.
 The number of treasures found for this solution will be printed at the end of the program.
 
 NOTICE!
